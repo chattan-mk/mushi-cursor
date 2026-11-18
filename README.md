@@ -6,10 +6,14 @@ They walk, jump, fly, and react when you click.
 Mac のマウスカーソルを、本物そっくりの虫や恐竜・乗り物にするアプリです（全12種）。
 歩いたり跳んだり飛んだりし、クリックするとアクションを起こします。
 
-https://github.com/chattan-mk/mushi-cursor/raw/main/docs/demo.mp4
+![Demo / デモ](docs/demo.gif)
 
-![Creatures](docs/creatures.png)
-![Others](docs/others.png)
+▶️ [Full‑quality video (MP4) / 高画質の動画](docs/demo.mp4)
+
+### All 12 / 全12種
+
+![Bugs / 虫](docs/creatures.png)
+![Dinosaur & vehicles / 恐竜・乗り物](docs/others.png)
 
 ---
 
